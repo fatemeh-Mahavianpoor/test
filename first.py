@@ -1,3 +1,4 @@
 print("hello world")
 print("hiiiiiiii")
-print("ma")
+print("ma ma ma")
+print("NOOOOOOOOOOOOOOOOOOO")
